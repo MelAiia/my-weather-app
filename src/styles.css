@@ -1,0 +1,185 @@
+.container {
+  color: #5a6275;
+  margin: 15px auto;
+  border-radius: 2px;
+  border: 1px solid rgba(215, 174, 243, 0.5);
+  box-shadow: 1px 5px 7px 2px rgba(31, 42, 182, 0.1);
+  background: #ffffff;
+}
+
+.topic {
+  padding: 10px;
+}
+
+body {
+  background: #fafafa;
+  width: 800px;
+  font-family: "Battambang", cursive;
+  margin: auto;
+}
+
+.hhh {
+  padding: 0px 14px;
+}
+
+#search-line {
+  padding: 6px;
+}
+
+#click-button {
+  padding: 6px;
+}
+
+.date-ongoing {
+  display: block;
+  margin: 0px;
+}
+
+.country {
+  font-size: 20px;
+}
+
+.abc {
+  padding: 10px 0px;
+}
+
+.city {
+  font-size: 25px;
+  font-weight: 900;
+}
+
+.feels-like {
+  font-size: 20px;
+  padding: 10px 0px;
+}
+
+.temperature-city {
+  font-size: 25px;
+  font-weight: 900;
+  text-align: center;
+}
+
+a {
+  color: #b37bd8;
+}
+
+.temperature-feels {
+  font-size: 25px;
+  text-align: center;
+}
+
+.city-cels,
+.feels-cels {
+  text-align: center;
+  font-size: 20px;
+}
+
+.feels-cels {
+  padding: 12px 0px;
+}
+
+.image-1 {
+  font-size: 80px;
+  width: 100%;
+}
+
+.looklike {
+  text-align: center;
+  padding: 15px 0px;
+}
+
+h6 {
+  margin: 15px 0px;
+}
+
+.ccc {
+  border-radius: 100px;
+  border: 2px solid #d7aef3;
+  padding: 4px 1px;
+  margin: 0px 2px;
+}
+
+.ccc:hover {
+  background: #fdf3f3;
+}
+
+.time {
+  font-size: 12px;
+  margin: 0px auto;
+}
+
+.image {
+  font-size: 30px;
+  margin: 0px auto;
+}
+
+.temperature {
+  font-weight: bold;
+  font-size: 13px;
+  margin: 4px auto;
+}
+
+.temp-feels {
+  font-size: 10px;
+  margin: 4px auto;
+}
+
+.pressure {
+  font-size: 10px;
+  margin: 4px auto;
+}
+
+.humidity {
+  font-size: 10px;
+  margin: 4px auto;
+}
+
+.wind {
+  font-size: 10px;
+  margin: 4px auto;
+}
+
+.presipitation {
+  font-size: 10px;
+}
+
+.bbb {
+  padding: 60px 0px;
+}
+
+ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+.infoday {
+  line-height: 20px;
+  font-weight: bold;
+  margin: 3px;
+}
+
+.info-day {
+  line-height: 20px;
+  margin: 3px;
+  text-align: center;
+}
+
+.aaa {
+  border-radius: 100px;
+  border: 2px solid #d7aef3;
+  padding: 7px 1px;
+  margin: 0px 2px;
+}
+
+.aaa:hover {
+  background: #fdf3f3;
+}
+
+.date {
+  font-size: 15px;
+}
+
+.temp-max,
+.temp-min {
+  font-size: 14px;
+}
