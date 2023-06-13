@@ -189,6 +189,6 @@ ul {
   font-size: 15px;
 }
 
-.contacts :hover {
+.contacts:hover {
   text-decoration: none;
 }
