@@ -183,3 +183,12 @@ ul {
 .temp-min {
   font-size: 14px;
 }
+
+.contacts {
+  color: #5a6275;
+  font-size: 15px;
+}
+
+.contacts :hover {
+  text-decoration: none;
+}
